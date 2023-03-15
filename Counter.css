@@ -1,0 +1,22 @@
+.mainblock{
+    text-align: center;
+    margin-top: 25%;
+    color:aqua
+    
+}
+
+.subblock{
+    text-align: center;
+    margin-bottom: 25%;
+    
+}
+
+button:hover{
+    
+    background-color: brown;
+}
+
+button{
+    color: yellow;
+    background-color: black;
+}
